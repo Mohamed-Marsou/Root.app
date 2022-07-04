@@ -1,0 +1,77 @@
+[
+  {
+    "id": 0,
+    "pathname": "FRONT-END",
+    "duration": "6 MONTHS",
+    "pathTempIcon": "🌟",
+    "logoPath": "Images/frontEnd.png",
+    "iconsPath": [
+      "svg/html-5.svg",
+      "svg/css3.svg",
+      "svg/javascript.svg",
+      "svg/react.svg",
+      "icons/vuejs.png",
+      "svg/angularjs.svg"
+    ],
+    "langNames": ["HTML5", "CSS3", "JAVASCRIPT", "REACT", "VUE", "ANGULAR"],
+    "langugesLinks": [
+      "https://www.w3schools.com/html/",
+      "https://www.w3schools.com/w3css/defaulT.asp",
+      "https://www.w3schools.com/js/",
+      "https://www.w3schools.com/REACT/DEFAULT.ASP",
+      "https://vuejs.org/guide/introduction.html",
+      "https://www.w3schools.com/angular/"
+    ],
+    "description": "Front-end web development is the development of the graphical user interface of a website,through the use of HTML, CSS, and JavaScript, so that users can view and interact with that website"
+  },
+  {
+    "id": 1,
+    "pathname": "BACK-END",
+    "duration": "9 MONTHS",
+    "pathTempIcon": "🏆",
+    "logoPath": "Images/backEnd.png",
+    "iconsPath": [
+      "icons/c-plus.png",
+      "svg/nodejs.svg",
+      "icons/python.png",
+      "icons/mongodb.png",
+      "icons/php.png",
+      "icons/sql.png"
+    ],
+    "langNames": ["C++", "NODE JS", "PYTHON", "MONGODB", "PHP", "SQL"],
+    "langugesLinks": [
+      "https://www.w3schools.com/CPP/default.asp",
+      "https://www.w3schools.com/nodejs/",
+      "https://www.w3schools.com/python/",
+      "https://www.w3schools.com/nodejs/nodejs_mongodb_create_db.asp",
+      "https://www.w3schools.com/php/",
+      "https://www.w3schools.com/sql/https://www.w3schools.com/sql/"
+    ],
+    "description": "Backend developers build code that allows a database and an application to communicate with one another. Backend developers take care and maintain the back-end of a website, Including databases, servers, and apps, and they control what you don't see."
+  },
+  {
+    "id": 2,
+    "pathname": "GAEM DEV",
+    "duration": "12 MONTHS",
+    "logoPath": "Images/gaming.png",
+    "pathTempIcon": "🎱",
+    "iconsPath": [
+      "icons/c-sharp.png",
+      "icons/unrealEngine.png",
+      "icons/python.png",
+      "icons/dart.png",
+      "icons/java.png",
+      "icons/ruby.png"
+    ],
+    "langNames": ["C#", "UNREAL ENGINE", "PYTHON", "DART", "JAVA", "RUBY"],
+    "langugesLinks": [
+      "https://www.w3schools.com/cs/index.php",
+      "https://www.raywenderlich.com/771-unreal-engine-4-tutorial-for-beginners-getting-started",
+      "https://www.w3schools.com/python/",
+      "https://www.w3adda.com/dart-tutorial",
+      "https://www.w3schools.com/java/",
+      "https://www.w3resource.com/ruby/"
+    ],
+    "description": "Game Development is the art of creating games and describes the design, development and release of a game. It may involve concept generation, design, build, test and release"
+  }
+]

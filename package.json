@@ -1,15 +1,17 @@
 {
-  "name": "root",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "root-v2.0",
+  "version": "2.0.0",
+  "description": "This is  ROOT V2 ",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Mohammed Marsou",
+  "author": "Mohamed Marsou",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.1",
-    "node-static": "^0.7.11"
+    "boostrap": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
   }
 }
